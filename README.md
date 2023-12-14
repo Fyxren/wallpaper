@@ -30,6 +30,6 @@ My personal wallpaper collection I use on my Windows and Linux machines.
 |<img src="dark_planets_plants_collage.jpg" width="200">|<img src="dark_techy_3d.jpg" width="200">|<img src="dark_winter_car.jpg" width="200">|
 |[**dark_planets_plants_collage.jpg**](dark_planets_plants_collage.jpg)|[**dark_techy_3d.jpg**](dark_techy_3d.jpg)|[**dark_winter_carjpg**](dark_winter_car.jpg)|
 |   |   |   |
-|<img src="light_japanese_emple_scenery.jpg" width="200">|<img src="light_low_poly_mountains.jpg" width="200">|<img src="" width="200">|
-|[**light_japanese_emple_scenery.jpg**](light_japanese_emple_scenery.jpg)|[**light_low_poly_mountains.jpg**](light_low_poly_mountains.jpg)|[**PLACEHOLDER**](PLACEHOLDER)|
+|<img src="light_japanese_emple_scenery.jpg" width="200">|<img src="light_low_poly_mountains.jpg" width="200">|<img src="https://media.tenor.com/iCgOuohU11kAAAAC/dancing-polish-cow-at4am.gif" width="200">|
+|[**light_japanese_emple_scenery.jpg**](light_japanese_emple_scenery.jpg)|[**light_low_poly_mountains.jpg**](light_low_poly_mountains.jpg)|[**PLACEHOLDER**](https://media.tenor.com/iCgOuohU11kAAAAC/dancing-polish-cow-at4am.gif)|
 |   |   |   |
